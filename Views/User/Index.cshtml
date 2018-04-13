@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Form Submission";
+}
+<div>
+    @{
+        foreach(var error in ViewBag.errors)
+        {
+            //If there are any errors for a field...
+            if(@error.Errors.Count > 0)
+            {
+                // We show the first error for that field
+                <p>@error.Errors[0].ErrorMessage</p>
+            }
+        }
+    }
+</div>
+<fieldset>
+    <legend><h2>Enter your information</h2></legend>
+    <form action='/' method='POST'>
+        <label>First Name</label> <input type='text' name='firstname'><br>
+        <label>Last Name</label> <input type='text' name='lastname'><br>
+        <label>Age</label> <input type="number" name='age'><br>
+        <label>Email Address</label> <input type='text' name='email'><br>
+        <label>Password</label> <input type='password' name='password'><br>
+        <input type='submit' id='submit' value='Submit'>
+    </form>
+</fieldset>

@@ -1,0 +1,10 @@
+C:\Users\dusty\Desktop\DojoAssignments\netCore\cHashtag\formsubmission\bin\Debug\netcoreapp2.0\formsubmission.deps.json
+C:\Users\dusty\Desktop\DojoAssignments\netCore\cHashtag\formsubmission\bin\Debug\netcoreapp2.0\formsubmission.runtimeconfig.json
+C:\Users\dusty\Desktop\DojoAssignments\netCore\cHashtag\formsubmission\bin\Debug\netcoreapp2.0\formsubmission.runtimeconfig.dev.json
+C:\Users\dusty\Desktop\DojoAssignments\netCore\cHashtag\formsubmission\bin\Debug\netcoreapp2.0\formsubmission.dll
+C:\Users\dusty\Desktop\DojoAssignments\netCore\cHashtag\formsubmission\bin\Debug\netcoreapp2.0\formsubmission.pdb
+C:\Users\dusty\Desktop\DojoAssignments\netCore\cHashtag\formsubmission\obj\Debug\netcoreapp2.0\formsubmission.csproj.CoreCompileInputs.cache
+C:\Users\dusty\Desktop\DojoAssignments\netCore\cHashtag\formsubmission\obj\Debug\netcoreapp2.0\formsubmission.AssemblyInfoInputs.cache
+C:\Users\dusty\Desktop\DojoAssignments\netCore\cHashtag\formsubmission\obj\Debug\netcoreapp2.0\formsubmission.AssemblyInfo.cs
+C:\Users\dusty\Desktop\DojoAssignments\netCore\cHashtag\formsubmission\obj\Debug\netcoreapp2.0\formsubmission.dll
+C:\Users\dusty\Desktop\DojoAssignments\netCore\cHashtag\formsubmission\obj\Debug\netcoreapp2.0\formsubmission.pdb
